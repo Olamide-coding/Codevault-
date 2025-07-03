@@ -1,4 +1,17 @@
 
+---
+
+### **Key Highlights**  
+✅ **GitHub Pages Ready**: Instructions included for instant hosting.  
+✅ **Security Warning**: Added caution for sensitive data.  
+✅ **Minimalist**: Focused on HTML/CSS deployment.  
+
+### **How to Use**  
+1. Copy this into a new `README.md` in your repo.  
+2. Replace `your-html-file.html` with your actual filename.  
+3. Enable GitHub Pages (Settings > Pages > Select `main` branch).  
+
+Let me know if you'd like to add a screenshot or demo link! 🖼️
 # 🌍 COQEVAULT  
 **Host and share your HTML projects securely with the world.**  
 
