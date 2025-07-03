@@ -1,0 +1,27 @@
+
+#H {
+  color: green;
+  font-family: 'Courier New';
+}
+
+#phone {
+  width: 200px;
+}
+
+#price {
+  width: 200px;
+}
+
+.yd {
+  background-color: green;
+  width: 150px;
+  height: 30px;
+  margin-left: 100px;
+}
+body{
+  background-color: #3e4ce233;
+}
+#T{
+  margin-left: 50px;
+  font-family:Courier;
+}
